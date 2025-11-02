@@ -6,8 +6,13 @@ It is designed to generate a more suttle and organic wind movement on trees. But
 
 Here are some videos of what I achieved using it:
 
-  - [Using on individual model](https://youtu.be/nG-dmBiyHXc)
-  - [Using on a Unity Terrain](https://youtu.be/CGLFoZXgCKA)
+### [Using on individual model](https://youtu.be/nG-dmBiyHXc)
+
+https://github.com/user-attachments/assets/fdd2befc-0be3-472e-bc42-8e3417b668dd
+
+### [Using on a Unity Terrain](https://youtu.be/CGLFoZXgCKA)
+
+https://github.com/user-attachments/assets/f6c2d1b5-8de8-4bc4-a9c1-dbd24872b000
 
 ## How to use it:
 
