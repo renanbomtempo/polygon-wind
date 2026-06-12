@@ -37,4 +37,4 @@ It uses a series of inputs to calculate the final vertex position, one of them b
 
 # Known applications using the shader
  - [[Star Wars Galaxies' Mod] Borrie's Swaying Trees, by Borrie BoBaka](https://modthegalaxy.com/index.php?resources/borries-swaying-trees.72/).
- - [[Master's Thesis] ZenVR: A biofeedback virtual reality experience for assisting meditation, by Malte Lindholm Hølledig and Rikke Katrine Petersen at the Aalborg University](https://projekter.aau.dk/projekter/files/281492006/zenvr.pdf)
+ - [[Masters Thesis] ZenVR: A biofeedback virtual reality experience for assisting meditation, by Malte Lindholm Hølledig and Rikke Katrine Petersen at the Aalborg University](https://projekter.aau.dk/projekter/files/281492006/zenvr.pdf)
