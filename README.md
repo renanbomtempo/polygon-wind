@@ -36,5 +36,14 @@ It uses a series of inputs to calculate the final vertex position, one of them b
   - Blue - Use it on the leaves to get that organic wiggle.
 
 # Known applications using the shader
- - [[Star Wars Galaxies' Mod] Borrie's Swaying Trees, by Borrie BoBaka](https://modthegalaxy.com/index.php?resources/borries-swaying-trees.72/).
- - [[Masters Thesis] ZenVR: A biofeedback virtual reality experience for assisting meditation, by Malte Lindholm Hølledig and Rikke Katrine Petersen at the Aalborg University](https://projekter.aau.dk/projekter/files/281492006/zenvr.pdf)
+### Star Wars Galaxies' Mod.
+This shader was used by Borrie BoBaka to make the mod [**Borrie's Swaying Trees**](https://modthegalaxy.com/index.php?resources/borries-swaying-trees.72/)
+<img width="461" height="327" alt="compressed_polygon_wind-starwars3" src="https://github.com/user-attachments/assets/d3f180c1-0d66-416c-a3f8-c325aa91b73f" />
+<img width="457" height="332" alt="compressed_polygon_wind-starwars2" src="https://github.com/user-attachments/assets/0f9c1771-3b74-409a-8337-0f330f60bec5" />
+<img width="455" height="331" alt="compressed_polygon_wind-starwars" src="https://github.com/user-attachments/assets/ba60ba2f-88df-4d61-beeb-52e7183be213" />
+
+### Master's Thesis on VR
+I also discovered that PolygonWind was used by students Malte Lindholm Hølledig and Rikke Katrine Petersen on their master's thesis [**ZenVR: A biofeedback virtual reality experience for assisting meditation**](https://projekter.aau.dk/projekter/files/281492006/zenvr.pdf) at Aalborg University.
+<img width="1191" height="1170" alt="image" src="https://github.com/user-attachments/assets/734054e6-d117-442d-9421-3ef2eaade354" />
+
+
